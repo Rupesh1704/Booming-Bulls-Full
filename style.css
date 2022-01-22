@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     font: bold;
     padding: 0px;
-    background: url(./bg.jpg)center center no-repeat;
+    /* background: url(./bg.jpg)center center no-repeat; */
     background-size: 1521px 2000px;
     /* background: 0.2; */
 }

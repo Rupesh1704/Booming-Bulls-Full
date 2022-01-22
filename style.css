@@ -3,7 +3,7 @@ body {
     font: bold;
     padding: 0px;
     background: url(./bg.jpg)center center no-repeat;
-    background-size: 1519px 2000px;
+    background-size: 1521px 2000px;
     /* background: 0.2; */
 }
 
@@ -12,15 +12,15 @@ h3 {
 }
 
 p.one {
-    margin: 1px;
-    font-size: 35px;
+    color: white;
     font-weight: bold;
+    margin: 1px;
 }
 
 p.two {
+    color: tomato;
+    font-weight: 500;
     margin: 1px;
-    font-weight: 800;
-    color: rgb(215 157 157);
 }
 
 .left {
@@ -178,5 +178,9 @@ a {
 }
 
 .card.img {
+    height: 100px
+}
+
+.card.img h3 {
     height: 100px
 }
